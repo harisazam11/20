@@ -1,5 +1,4 @@
-4.5 Back End
-ackage org.juniper.dynamicroute;
+Package org.juniper.dynamicroute;
 
 import org.apache.felix.scr.annotations.*;
 import org.onosproject.core.ApplicationId;
