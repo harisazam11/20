@@ -1,5 +1,6 @@
-Package org.juniper.dynamicroute;
-
+package org.juniper.dynamicroute;
+import org.onlab.packet.MacAddress;
+import org.onlab.packet.Ethernet;
 import org.apache.felix.scr.annotations.*;
 import org.onosproject.core.ApplicationId;
 import org.onosproject.core.CoreService;
